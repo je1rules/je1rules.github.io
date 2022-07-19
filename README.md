@@ -1,2 +1,2 @@
-# je1rules0
+# je1rules.gethub.io
 coursera test repository
